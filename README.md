@@ -51,12 +51,11 @@ It is difficult to tell when the connection with the device is successful, so we
 
 # How to use
 Press any button and release the button on your selfie device to act as a shutter for these projects.   
+- https://github.com/nopnop2002/esp-idf-ftp-camera
+
 These projects must be configured as UDP servers.   
 This project works as a UDP client.   
 ![Image](https://github.com/user-attachments/assets/55ca83ac-cf31-4c15-9e8e-c89c7dc5e07c)
-
-- https://github.com/nopnop2002/esp-idf-ftp-camera
-
 
 
 # Reasons why it is not possible to integrate into camera project
