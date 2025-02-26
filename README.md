@@ -55,8 +55,7 @@ Press any button and release the button on your selfie device to act as a shutte
 
 These projects must be configured as UDP servers.   
 This project works as a UDP client.   
-![Image](https://github.com/user-attachments/assets/55ca83ac-cf31-4c15-9e8e-c89c7dc5e07c)
-
+![Image](https://github.com/user-attachments/assets/769b4084-2413-46fc-8c9d-302e24e44adf)
 
 # Reasons why it is not possible to integrate into camera project
 This project requires a large amount of RAM and a large amount of SPI Flash area.   
