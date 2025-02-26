@@ -51,6 +51,7 @@ When set to -1, GPIO is not used.
 
 
 # How to use
+Power on your device and pair it with your ESP32.   
 Press any button and release the button on your selfie device to act as a shutter for these projects.   
 - https://github.com/nopnop2002/esp-idf-ftp-camera
 
