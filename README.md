@@ -46,6 +46,7 @@ Set the information of your access point.
 Set the GPIO information.   
 It can be turned on when the connection to the device is successful and when the trigger is fired.   
 It is difficult to tell when the connection with the device is successful, so we recommend adding an LED to this port.   
+When set to -1, GPIO is not used.   
 ![Image](https://github.com/user-attachments/assets/4ae4bfb3-c1c2-4405-add2-aedbc2f782b2)
 
 
