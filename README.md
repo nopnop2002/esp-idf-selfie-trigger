@@ -27,7 +27,7 @@ The number of buttons does not matter.
 
 # Installation   
 ```
-git clone https://github.com/nopnop2002/esp-idf-bluetooth-remote
+git clone https://github.com/nopnop2002/esp-idf-selfie-trigger
 cd esp-idf-selfie-trigger
 idf.py menuconfig
 idf.py flash
@@ -56,3 +56,8 @@ This project works as a UDP client.
 
 - https://github.com/nopnop2002/esp-idf-ftp-camera
 
+
+
+# Reasons why it is not possible to integrate into camera project
+This project requires a large amount of RAM and a large amount of SPI Flash area.   
+For this reason it cannot be integrated with the camera project.   
