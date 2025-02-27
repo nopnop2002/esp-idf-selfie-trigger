@@ -45,7 +45,7 @@ Set the information of your access point.
 
 ## Device Setting
 Set the GPIO information.   
-It can be turned on when the connection to the device is successful and when the trigger is fired.   
+It can be turned on when pairing with a device is successful and when a trigger is fired.   
 After a period of inactivity, the device will automatically turn off and unpair with the ESP32.   
 We recommend adding an LED to this port, as it can be difficult to determine if pairing with a device is enabled.   
 When set to -1, GPIO is not used.   
