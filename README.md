@@ -7,7 +7,7 @@ Most devices are powered by button batteries, but the black device is rechargeab
 These are selfie devices that use a Bluetooth remote control to trigger the shutter on your phone.   
 These act as GATT servers.   
 This project is a GATT client that communicates with these devices.   
-You can control your ESP32-CAM using these devices.
+You can use these devices to take photos with ESP32-CAM.   
 
 __Note__   
 There are many cloned products.   
