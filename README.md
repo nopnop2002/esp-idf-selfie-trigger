@@ -64,6 +64,7 @@ This project works as a UDP client.
 
 
 This is a photo taken with ESP32-CAM using this device as a trigger.   
+You can take photos hands-free.   
 ![Image](https://github.com/user-attachments/assets/917f91ac-d3cf-4778-80a9-e84b42f3c8a8)
 
 # Reasons why it is not possible to integrate into camera project
