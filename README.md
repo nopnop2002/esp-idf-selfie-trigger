@@ -53,10 +53,12 @@ When set to -1, GPIO is not used.
 # How to use
 Power on your device and pair it with your ESP32.   
 Press any button and release the button on your selfie device to act as a shutter for these projects.   
-- https://github.com/nopnop2002/esp-idf-ftp-camera   
-- https://github.com/nopnop2002/esp-idf-smb-camera   
 These projects must be configured as UDP servers.   
 This project works as a UDP client.   
+
+- https://github.com/nopnop2002/esp-idf-ftp-camera   
+- https://github.com/nopnop2002/esp-idf-smb-camera   
+
 ![Image](https://github.com/user-attachments/assets/364935f8-19ef-4a1d-b171-916352b82c46)
 
 # Reasons why it is not possible to integrate into camera project
