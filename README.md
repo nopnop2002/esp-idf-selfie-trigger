@@ -61,6 +61,7 @@ This project works as a UDP client.
 - https://github.com/nopnop2002/esp-idf-ftp-camera   
 - https://github.com/nopnop2002/esp-idf-smb-camera   
 - https://github.com/nopnop2002/esp-idf-mqtt-camera   
+- https://github.com/nopnop2002/esp-idf-http-camera   
 
 ![Image](https://github.com/user-attachments/assets/364935f8-19ef-4a1d-b171-916352b82c46)
 
