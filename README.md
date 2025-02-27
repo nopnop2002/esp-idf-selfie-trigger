@@ -1,5 +1,6 @@
 # esp-idf-selfie-trigger
 Using a selfie device with ESP32-CAM.   
+Most devices are powered by button batteries, but the black device is rechargeable.   
 
 ![Image](https://github.com/user-attachments/assets/cc97da4e-6c06-4604-8362-f81c6fb6eb58)
 
