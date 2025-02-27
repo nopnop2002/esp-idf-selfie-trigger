@@ -62,6 +62,10 @@ This project works as a UDP client.
 
 ![Image](https://github.com/user-attachments/assets/364935f8-19ef-4a1d-b171-916352b82c46)
 
+
+This is a photo taken with ESP32-CAM using this device as a trigger.   
+![Image](https://github.com/user-attachments/assets/917f91ac-d3cf-4778-80a9-e84b42f3c8a8)
+
 # Reasons why it is not possible to integrate into camera project
 This project requires a large amount of RAM and a large amount of SPI Flash area.   
 For this reason it cannot be integrated with the camera project.   
