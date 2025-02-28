@@ -612,12 +612,14 @@ void bluetooth(void* pvParameters)
 		ret = esp_ble_gattc_app_register(PROFILE_A_APP_ID);
 		if (ret){
 			ESP_LOGE(GATTC_TAG, "%s gattc app register failed, error code = %x", __func__, ret);
+			break;
 		}
 
 		ESP_LOGI(GATTC_TAG, "Start esp_ble_gatt_set_local_mtu");
 		esp_err_t local_mtu_ret = esp_ble_gatt_set_local_mtu(500);
 		if (local_mtu_ret){
-			ESP_LOGE(GATTC_TAG, "set local	MTU failed, error code = %x", local_mtu_ret);
+			ESP_LOGE(GATTC_TAG, "set local MTU failed, error code = %x", local_mtu_ret);
+			break;
 		}
 
 		NOTIFICATION_t event;
